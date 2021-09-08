@@ -1,0 +1,172 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biblioteca</title>
+  <link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet">
+  <link rel="stylesheet" href="/css/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/header-footer.css">
+  <link rel="stylesheet" href="/css/sweetAlert2/sweetalert2.min.css">
+  <script src="https://kit.fontawesome.com/3dc5764727.js" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="encabezado">
+      <div class="nombre-pag">
+        <i class="fas fa-book"></i>
+        <div class="title">Carmen de Areco</div>
+      </div>
+      <div class="enlace">
+        <a href="./alquileres.html" class="btn btn-light" id="boton-link">
+          <i class="fas fa-id-card-alt"></i>
+        </a>
+      </div>
+      <div class="boton-modo">
+        <div class="modo">
+          <label class="switch">
+            <input type="checkbox" class="checkbox">
+            <span class="slider round"></span>
+          </label>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+          <!-- TITULO DEL LIBRO -->
+
+          <div class="modal-header">
+            <!-- AÑADO ESTE DIV -->
+            <div class="titulo-libro">
+            </div>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span class="cerrar" aria-hidden="true">&times;</span>
+            </button>
+          </div>
+
+          <!-- BODY DEL LIBRO -->
+          <div class="modal-body" id="modalContenido">
+            <div class="modal-img">
+            </div>
+
+            <div class="informacion">
+              <div class="autor">
+                <label for="autor" id="info">Autor: </label>
+                <div class="autor-libro" id="dato-libro">
+
+                </div>
+              </div>
+
+              <div class="isbn">
+                <label for="isbn" id="info">ISBN: </label>
+                <div class="isbn-libro" id="dato-libro">
+
+                </div>
+              </div>
+
+              <div class="editorial">
+                <label for="isbn" id="info">Editorial: </label>
+                <div class="editorial-libro" id="dato-libro">
+
+                </div>
+              </div>
+
+              <div class="edicion">
+                <label for="isbn" id="info">Edicion: </label>
+                <div class="edicion-libro" id="dato-libro">
+
+                </div>
+              </div>
+
+              <div class="stock">
+                <label for="isbn" id="info">Stock: </label>
+                <div class="stock-libro" id="dato-libro">
+
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+
+
+          <!-- FOOTER DEL MODAL -->
+          <div class="modal-footer">
+
+          </div>
+          <div class="estado-accion">
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </main>
+
+
+
+  <div class="contenedor-principal">
+
+    <div class="header-buscador">
+      <label for="header-buscador">BUSCA EL LIBRO QUE NECESITES AQUÍ</label>
+    </div>
+
+    <div class="container-buscador">
+
+      <div class="buscar">
+        <div class="texto">
+          <input type="text" class="buscar-texto" placeholder="Ingrese el título del libro o el autor"
+            id="input-texto" />
+        </div>
+
+        <div class="busqueda boton">
+
+          <i class="fas fa-search"></i>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="texto-libros-mostrados">
+      <label for="libros-presentados"> Libros disponibles:</label>
+    </div>
+
+    <div class="grid-conteiner" id="main-books">
+
+
+    </div>
+
+  </div>
+
+  <footer>
+    <label for="foot">TP3 Proyecto 2020</label>
+    <div class="icons">
+      <i class="fab fa-facebook-square"></i>
+      <i class="fab fa-twitter-square"></i>
+    </div>
+  </footer>
+
+
+
+  <script src="/js/jQuery/jquery-3.5.1.min.js"></script>
+  <script src="/js/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/js/sweetalert2/sweetalert2.min.js"></script>
+  <script type="module" src="/js/LibroService.js"></script>
+  <script type="module" src="/js/modo.js"></script>
+  <script type="module" src="/js/urls.js"></script>
+  <script type="module" src="/js/main.js"></script>
+</body>
+
+</html>

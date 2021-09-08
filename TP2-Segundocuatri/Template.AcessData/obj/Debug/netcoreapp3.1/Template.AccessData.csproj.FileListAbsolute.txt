@@ -1,0 +1,103 @@
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.deps.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.dev.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csprojAssemblyReference.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfoInputs.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfo.cs
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CopyComplete
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.genruntimeconfig.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.deps.json
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.json
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.dev.json
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfo.cs
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CopyComplete
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.genruntimeconfig.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.deps.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.dev.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfo.cs
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CopyComplete
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.genruntimeconfig.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.deps.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.dev.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CopyComplete
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.genruntimeconfig.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.deps.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.dev.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CopyComplete
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.genruntimeconfig.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.deps.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.runtimeconfig.dev.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.AssemblyInfo.cs
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.CopyComplete
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.genruntimeconfig.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AccessData.GeneratedMSBuildEditorConfig.editorconfig

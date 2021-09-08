@@ -1,0 +1,68 @@
+
+.card
+{
+    margin: 0.5%;
+}
+.separador
+{
+    border-bottom-style: ridge; border-width: 1px;
+}
+#nav_bar
+{
+    background-color: #3CB371;
+}
+
+#nav
+{
+    background-color: #3CB371;
+}
+
+#accordion
+{
+    margin-top: 3%;
+}
+.enca
+{
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.titulo
+{
+    margin-left: 1%;
+}
+.table
+{
+    margin-top: 2%;
+}
+.loader {
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: url('https://www.formacionalcala.es/css/images/loading-spinner-bzn.gif') 50% 50% no-repeat rgb(249,249,249);
+    opacity: .8;
+}
+
+.enc
+{
+    color: whitesmoke;
+}
+.item-hover:hover
+{
+    border-bottom: 5px solid whitesmoke;
+    border-radius: 5%;
+}
+#tabla-titulo
+{
+    width: 34%;
+}
+#footer
+{
+    /*margin-top: 31%;*/
+    background-color: #3CB371;
+    position: fixed;
+    width: 100%;
+    top: 94.4%;
+}

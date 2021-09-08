@@ -1,0 +1,17 @@
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.csprojAssemblyReference.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.AssemblyInfoInputs.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.AssemblyInfo.cs
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AcessData.deps.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AcessData.runtimeconfig.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AcessData.runtimeconfig.dev.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AcessData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.AcessData.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.csproj.CopyComplete
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.genruntimeconfig.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.AcessData\obj\Debug\netcoreapp3.1\Template.AcessData.csproj.CoreCompileInputs.cache

@@ -1,0 +1,88 @@
+/*header*/
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 9%;
+    width: 100%;
+}
+
+.encabezado{
+    display: grid;
+    grid-template-columns: 63% calc(37% - 60px) 55px;
+    height: 100%;
+    width: 100%;
+}
+
+.title{
+    padding-left: 10px;
+}
+
+.enlace{
+    
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+    width: auto;
+}
+
+#boton-link{
+    font-size: 20px;
+}
+
+#boton-link:hover{
+    background-color: #6e6d6d;
+    border: solid 1px #636160;
+    color: rgb(235, 231, 231);
+}
+
+.nombre-pag{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: monospace;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.logo{
+    height: 60px;
+    width: auto;
+    margin-left: 10px;
+    max-height: auto;
+}
+
+/* footer*/
+footer {
+    display: flex;
+    align-items: center;
+    min-height: 9%;
+    font-size: 20px;
+    min-width: 480px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    font-family: monospace;
+    padding-left: 10px;
+}
+
+.icons{
+    text-align: right;
+}
+
+.icons>i{
+    font-size: 26px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.fab:hover{
+    color: rgb(4, 24, 204);
+}
+
+/*end footer*/
+

@@ -1,0 +1,63 @@
+/* COLORES HEADER */
+body{
+    color: rgb(224, 224, 224);
+}
+
+header{
+    background: linear-gradient(to bottom, #020303 0%, #0c3f42 100%); 
+
+}
+.btn{
+    background-color: #e0e0e0;
+    border: solid 1px #c4ae9e;
+}
+
+.btn:hover{
+    background-color: #a0a0a0;
+    border: solid 1px #636160;
+    color: white;
+}
+
+.nombre-pag{
+    color: #f5f5f5;
+}
+
+/* COLORES FOOTER */
+footer {
+    background: linear-gradient(to bottom, #0c3f42 0%, #020303 100%); 
+    color: #ffffff;
+}
+
+.contenedor-principal {
+    background-color: #151E21 ;
+}
+
+/* DE INDEX */
+.modal-content {
+    background-color: #151E21;
+}
+
+.modal-header {
+    background-color: #1a6161;
+    color: #e9e3d8;
+}
+
+#info {
+    color: rgb(204, 204, 204);
+    font-weight: bold;
+    font-size: 21px;
+}
+
+#resp {
+    color: rgb(204, 204, 204);
+}
+
+/* ALQUILERES */
+.main{
+    background-color: #151E21;
+}
+
+.vacio{
+    color: #e9e3d8;
+}
+

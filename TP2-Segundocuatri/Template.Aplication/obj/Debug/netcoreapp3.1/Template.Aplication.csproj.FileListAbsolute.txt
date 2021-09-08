@@ -1,0 +1,76 @@
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csprojAssemblyReference.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfoInputs.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfo.cs
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.deps.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.dev.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CopyComplete
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.genruntimeconfig.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.deps.json
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.json
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.dev.json
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfo.cs
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CopyComplete
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.genruntimeconfig.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.deps.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.dev.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfo.cs
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CopyComplete
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.genruntimeconfig.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.deps.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.dev.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CopyComplete
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.genruntimeconfig.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.deps.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.runtimeconfig.dev.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.AssemblyInfo.cs
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.CopyComplete
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.genruntimeconfig.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\Template.Aplication\obj\Debug\netcoreapp3.1\Template.Aplication.GeneratedMSBuildEditorConfig.editorconfig

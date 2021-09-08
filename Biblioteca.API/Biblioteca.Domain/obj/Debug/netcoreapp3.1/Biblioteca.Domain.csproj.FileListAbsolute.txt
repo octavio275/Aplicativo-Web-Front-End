@@ -1,0 +1,72 @@
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.deps.json
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.json
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.genruntimeconfig.cache
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\source\repos\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.deps.json
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.json
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.genruntimeconfig.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.deps.json
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.json
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaEntrega\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.genruntimeconfig.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.deps.json
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.json
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.genruntimeconfig.cache
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.deps.json
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.json
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TP2BibliotecaConMapeador\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.genruntimeconfig.cache
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.deps.json
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.json
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\bin\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.dll
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.pdb
+C:\Users\User\Desktop\TPS PS\TP3Biblioteca\Backend\TP2Biblioteca\Biblioteca.API\Biblioteca.Domain\obj\Debug\netcoreapp3.1\Biblioteca.Domain.genruntimeconfig.cache

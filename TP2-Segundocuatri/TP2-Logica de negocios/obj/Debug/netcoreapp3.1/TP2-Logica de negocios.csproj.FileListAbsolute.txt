@@ -1,0 +1,485 @@
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.exe
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csprojAssemblyReference.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfo.cs
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.RazorTargetAssemblyInfo.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.Manifest.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.xml
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CopyComplete
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.deps.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.dev.json
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.genruntimeconfig.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\octa\source\repos\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.exe
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.deps.json
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.json
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.dev.json
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csprojAssemblyReference.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfo.cs
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CopyComplete
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.xml
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\User\Downloads\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.genruntimeconfig.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.exe
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.deps.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.dev.json
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfo.cs
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.RazorTargetAssemblyInfo.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CopyComplete
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.Manifest.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.xml
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.genruntimeconfig.cache
+C:\Users\octa\Desktop\ProyectoSoft\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.exe
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.deps.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.dev.json
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.RazorTargetAssemblyInfo.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CopyComplete
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.Manifest.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.xml
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Logica de negocios\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.genruntimeconfig.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.exe
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.deps.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.dev.json
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csprojAssemblyReference.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.RazorTargetAssemblyInfo.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CopyComplete
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.Manifest.cache
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.xml
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\octa\Desktop\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.genruntimeconfig.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.exe
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.deps.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.runtimeconfig.dev.json
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.AccessData.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Aplication.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\bin\Debug\netcoreapp3.1\Template.Domain.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.AssemblyInfo.cs
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.CopyComplete
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\staticwebassets\TP2-Logica de negocios.StaticWebAssets.xml
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.dll
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.pdb
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.genruntimeconfig.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\TP2-Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\TP3revis\TP2-Segundocuatri\TP2-Logica de negocios\obj\Debug\netcoreapp3.1\scopedcss\bundle\TP2-Logica de negocios.styles.css

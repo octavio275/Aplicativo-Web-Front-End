@@ -1,0 +1,333 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+
+.contenedor-principal {
+    min-height: 82%;
+    max-height: auto;
+}
+
+.grid-conteiner {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-auto-rows: minmax(280px, auto);
+    gap: 20px;
+    padding: 20px;
+}
+
+.libros {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    transition: transform 0.3s ease-in-out;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    max-width: 250px;
+    font-size: 12px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    border: solid 1px black;
+}
+
+.libros:hover {
+    filter: opacity(0.9);
+    transform: scale(1.04);
+    border: solid 1px black;
+}
+
+.libros>img {
+    width: 100%;
+    height: 100%;
+}
+
+/* TEXTO INFERIOR*/
+
+.text-bottom {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    padding: 9px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    transition: all 0.5s ease-out;
+}
+
+.text-bottom p {
+    text-align: center;
+}
+
+.libros:hover .text-bottom {
+    background: rgba(0, 0, 0, 0.93);
+    font-size: 12px;
+}
+
+/* ************** VENTANA MODAL *************/
+
+
+#exampleModal {
+    height: 100%;
+}
+
+.modal-dialog {
+    height: auto;
+    border-radius: 1em;
+}
+
+#exampleModalLabel {
+    font-size: 26x;
+    font-weight: bold;
+}
+
+.modal-content {
+    border-radius: 1rem;
+}
+
+.modal-header {
+    display: grid;
+    grid-template-columns: 93% 7%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.modal-title {
+    text-align: center;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.modal-body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: minmax(380px, auto);
+    height: 100%;
+}
+
+.modal-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    text-align: center;
+    background-image: url("../img/not-found4.jpg");
+}
+
+.div-imagen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.informacion {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-auto-rows: minmax(30px, auto);
+    grid-template-rows: auto auto;
+    padding-left: 4%;
+    font-size: 4em;
+}
+
+.informacion>div {
+    display: flex;
+    align-items: center;
+}
+
+#info {
+    font-weight: bold;
+    font-size: 21px;
+    font-family: 'Oswald', sans-serif;
+}
+
+#resp {
+    padding-left: 3%;
+}
+
+
+#dato-libro {
+    width: 100%;
+    font-size: 21px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
+.modal-footer {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.estado-accion {
+    font-size: 16px;
+    text-align: center;
+}
+
+#respuesta-201 {
+    color: rgb(14, 116, 14);
+}
+
+#respuesta-error {
+    color: red;
+}
+
+/*BOTONES*/
+
+.modal-footer>button {
+    padding-left: 1%;
+    padding-top: 1%;
+}
+
+#alquilar {
+    font-size: 17px;
+    background-color: #26cccc;
+    border: solid 1px rgb(194, 192, 192);
+}
+
+#alquilar:hover {
+    background-color: #1f9c9c;
+    font-weight: bold;
+}
+
+#reservar {
+    font-size: 17px;
+    background-color: #b0b4b3;
+    border: solid 1px rgb(194, 192, 192);
+}
+
+#reservar:hover {
+    border: solid 1px rgb(194, 192, 192);
+    background-color: #757777;
+    font-weight: bold;
+}
+
+#alquilar:disabled{
+    background-color: #777777;
+    color: white;
+    border: solid 1px rgb(153, 151, 151);
+    font-weight: normal;
+}
+
+#reservar:disabled{
+    background-color: #777777;
+    color: white;
+    border: solid 1px rgb(153, 151, 151);
+    font-weight: normal;
+}
+
+
+/* ******************* BUSCADOR ************** */
+
+.header-buscador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    padding-top: 2%;
+}
+
+.container-buscador {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 7%;
+}
+
+.buscar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background: #f1efef;
+    padding: 10px;
+    height: 40px;
+    border-radius: .6rem;
+    width: 90%;
+    border: solid 1px gray;
+}
+
+.texto {
+    width: 100%;
+}
+
+/*Más oscuro el texto del placeholder*/
+::-webkit-input-placeholder {
+    color: rgb(24, 23, 23);
+    font-style: italic;
+}
+
+.buscar-texto {
+    border: none;
+    background: none;
+    outline: none;
+    font-size: 19px;
+    font-weight: lighter;
+    float: left;
+    line-height: 60px;
+    width: 100%;
+    padding-left: 3%;
+}
+
+.boton {
+    width: 35px;
+    height: 35px;
+    text-decoration: none;
+    color: #493c33;
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+
+.boton:hover {
+    color: black;
+}
+
+.texto-libros-mostrados {
+    padding-top: 7px;
+    font-size: 18px;
+    padding-left: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (min-width:480px) {
+    .header-buscador {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 517px) {
+    .header-buscador {
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 900px) {
+    .header-buscador {
+        font-size: 28px;
+    }
+}
+
+
